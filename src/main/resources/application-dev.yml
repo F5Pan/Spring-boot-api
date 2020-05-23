@@ -1,0 +1,10 @@
+
+logging:
+  level:
+    root: debug
+    com.lrm: debug
+  file: devlog/my.log
+#  file: /Users/limi/Desktop/my.log
+#  path: /Users/limi/Desktop/devlog
+
+
